@@ -1,0 +1,5 @@
+{"stockstobuy":["GOOGL","CSCO","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","PG","ADBE","AMZN","WMT"]}
+{"stocks":[],"accounts":[{"currencyname":"USD","amount":"49941.00"},{"currencyname":"EUR","amount":"100.00"}]}
+{"stocks":[],"accounts":[{"currencyname":"USD","amount":"49841.00"},{"currencyname":"EUR","amount":"100.00"}]}
+{"stocks":[{"stockname":"ADBE","amount":10}],"accounts":[{"currencyname":"USD","amount":"44264.85"},{"currencyname":"EUR","amount":"100.00"}]}
+{"stocks":[{"stockname":"ADBE","amount":10}],"accounts":[{"currencyname":"USD","amount":"43866.10"},{"currencyname":"EUR","amount":"100.00"}]}

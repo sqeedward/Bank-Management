@@ -1,0 +1,18 @@
+CREATE USER sebi.fortosul@email.com Sebi Fortosul 700 Bucuresti Politehnica Bucuresti Nr 1
+CREATE USER lipan.andrei@email.com Lipan Andrei 123 Bucuresti ASE Nr 2
+ADD ACCOUNT sebi.fortosul@email.com USD
+ADD ACCOUNT sebi.fortosul@email.com EUR
+ADD MONEY sebi.fortosul@email.com USD 50100
+ADD ACCOUNT lipan.andrei@email.com USD
+ADD ACCOUNT lipan.andrei@email.com EUR
+ADD MONEY lipan.andrei@email.com USD 50000
+RECOMMEND STOCKS
+BUY PREMIUM sebi.fortosul@email.com
+EXCHANGE MONEY sebi.fortosul@email.com USD EUR 100
+EXCHANGE MONEY lipan.andrei@email.com USD EUR 100
+LIST PORTFOLIO sebi.fortosul@email.com
+LIST PORTFOLIO lipan.andrei@email.com
+BUY STOCKS sebi.fortosul@email.com ADBE 10
+BUY STOCKS lipan.andrei@email.com ADBE 10
+LIST PORTFOLIO sebi.fortosul@email.com
+LIST PORTFOLIO lipan.andrei@email.com
